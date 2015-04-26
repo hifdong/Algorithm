@@ -9,6 +9,7 @@ public class Test {
 //    	HeapSort hs = new HeapSort();
 //        hs.test();
     	
-    	
+    	KMP kmp = new KMP();
+    	kmp.test();
     }
 }
