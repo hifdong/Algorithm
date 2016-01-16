@@ -1,2 +1,2 @@
 # Algorithm
-classical algorithm
+some classical algorithm and practice algorithm.
