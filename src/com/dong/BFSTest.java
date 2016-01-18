@@ -12,7 +12,7 @@ public class BFSTest {
 	private int[] parent;
 	
 	private int WHITE = 0;
-    private int GRAY = 1;
+        private int GRAY = 1;
 	private int BLACK = 2;
 	
 	public void bFS(int[][] arr, int s)
